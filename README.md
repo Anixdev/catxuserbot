@@ -1,1 +1,5 @@
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/deepaiims/caatttsfirrepiies"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="320" height="58.45"/></a></p>
+# CatUserbot
+
+A simple Telegram userbot based on Telethon .
+
+[![catuserbot logo](https://telegra.ph/file/44c6dc823404241ddeea2.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot
