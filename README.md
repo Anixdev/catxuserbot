@@ -51,6 +51,7 @@ A simple Telegram userbot based on Telethon .
 ## Configuration Vars
 
 - Checkout All [Available Vars](https://telegra.ph/All-Heroku-variables-for-catuserbot-02-03)
+- Checkout Only [Mandatory Vars](https://catuserbot.gitbook.io/catuserbot/tutorial/untitled-3) 
 
 ## Contact & Support
 
