@@ -52,6 +52,14 @@ A simple Telegram userbot based on Telethon .
 
 - Checkout All [Available Vars](https://telegra.ph/All-Heroku-variables-for-catuserbot-02-03)
 
+## Contact & Support
+
+- [Catusetbot Channel](https://t.me/catuserbot17)
+- [Catuserbot Support Group](https://t.me/catuserbot_support)
+
+## License
+
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/sandy1709/catuserbot/blob/master/LICENSE) See `LICENSE` for more information.
 
 
   
