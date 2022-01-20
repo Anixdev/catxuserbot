@@ -70,6 +70,15 @@ Read these lines!
 <br>
   
 >                                             YOU ARE FOREWARNED
+> Your Telegram account may get banned.
+> Catuserbot or we are not responsible for your account. 
+> This bot is intended for the purpose of having fun with some fun commands and group management with some helpfull commands.
+
+> If  you ended up spamming groups, getting reported left and right, and you ended up in being fight with Telegram
+
+
+
+
 
 
 
