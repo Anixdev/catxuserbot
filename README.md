@@ -44,7 +44,14 @@ A simple Telegram userbot based on Telethon .
 <summary><b>🔗 Self Host</b></summary>
 <br>
   
-> Read [Docs](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host) for Self Hosting of Catusetbot. 
+> Read [Docs](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host) for Self Hosting of Catuserbot. 
   
 </details>
+
+##Configuration Vars
+
+- Checkout All [Available Vars](https://telegra.ph/All-Heroku-variables-for-catuserbot-02-03)
+
+
+
   
