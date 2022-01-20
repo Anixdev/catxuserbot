@@ -69,7 +69,7 @@ Read these lines!
 <summary><b>🔗 Important notes</b></summary>
 <br>
   
->                       ❗YOU ARE FOREWARNED❗
+>                        ❗YOU ARE FOREWARNED❗
 > Your Telegram account may get banned.
 > Catuserbot or we are not responsible for your account. 
 > This bot is intended for the purpose of having fun with some fun commands and group management with some helpfull commands.
