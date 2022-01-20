@@ -69,7 +69,7 @@ Read these lines!
 <summary><b>🔗 Important notes</b></summary>
 <br>
   
->                                               YOU ARE FOREWARNED
+>                                             YOU ARE FOREWARNED
 
 
 
