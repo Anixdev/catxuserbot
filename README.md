@@ -55,7 +55,7 @@ A simple Telegram userbot based on Telethon .
 
 ## Contact & Support
 
-- [Catusetbot Channel](https://t.me/catuserbot17)
+- [Catuserbot Channel](https://t.me/catuserbot17)
 - [Catuserbot Support Group](https://t.me/catuserbot_support)
 
 ## License
