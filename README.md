@@ -80,7 +80,7 @@ Read these lines!
   
 >                                           ❤ Thanks for using our bot 😺❤
 
->/details>
+</details>
 
 
 
