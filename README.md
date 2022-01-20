@@ -39,6 +39,12 @@ A simple Telegram userbot based on Telethon .
 <p><a href="http://github.com/deepaiims/caatttsfirrepiies"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
   
 </details> 
+
+<details>
+<summary><b>🔗 Self Host</b></summary>
+<br>
   
+> Read [Docs](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host) for Self Hosting of Catusetbot. 
   
+</details>
   
